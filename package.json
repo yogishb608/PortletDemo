@@ -1,0 +1,25 @@
+{
+  "name": "demo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "create-react-class": "^15.5.3",
+    "jquery": "^3.2.1",
+    "react": "^15.5.4",
+    "react-cookie": "^2.0.7",
+    "react-dom": "^15.5.4",
+    "react-grid-layout": "^0.14.6",
+    "react-infinite": "^0.11.0",
+    "react-nvd3": "^0.5.7",
+    "victory": "^0.20.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
